@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	s3ds "github.com/ipfs/go-ds-s3"
+	s3ds "github.com/cuh/dqfs-ds-s3"
 	"github.com/ipfs/kubo/plugin"
 	"github.com/ipfs/kubo/repo"
 	"github.com/ipfs/kubo/repo/fsrepo"
