@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/aws/aws-sdk-go v1.45.24
 	github.com/ipfs/go-datastore v0.6.0
-	github.com/ipfs/kubo v0.23.0
+	github.com/ipfs/kubo v0.22.0
 )
 
 require (
