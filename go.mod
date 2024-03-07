@@ -1,6 +1,6 @@
 module github.com/cuh/dqfs-ds-s3
 
-go 1.20
+go 1.19.5
 
 require (
 	github.com/aws/aws-sdk-go v1.45.24
