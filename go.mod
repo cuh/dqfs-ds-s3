@@ -3,7 +3,7 @@ module github.com/cuh/dqfs-ds-s3
 go 1.19.12
 
 require (
-	github.com/aws/aws-sdk-go v1.45.24
+	github.com/aws/aws-sdk-go v1.44.330
 	github.com/ipfs/go-datastore v0.6.0
 	github.com/ipfs/kubo v0.22.0
 )
